@@ -1,0 +1,8 @@
+This program attempts to transmit text through an Android phone via USB through the 27MHz frequency.
+
+
+Arduino: Contains code for Arduino.
+
+Android: Contains code for Android.
+
+Setup: Contains physical installation instructions.
